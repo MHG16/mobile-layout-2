@@ -34,8 +34,37 @@
 	border: .5em solid #000000;
 }
 
+.arrow{
+	background-color: #FFFFFF;
+	height: 1em;
+	width: 1em;
+	margin: .5em auto .5em auto;
 
+}
 
+.website {
+	background-color: #FFFFFF;
+	height: 2em;
+	width: 2em;
+	display: inline-block;
+	margin: 1em auto 1em auto;
+}
+
+.blog {
+	background-color: #FFFFFF;
+	height: 2em;
+	width: 2em;
+	display: inline-block;
+	margin: 1em auto 1em auto;
+}
+
+.discovery {
+	background-color: #FFFFFF;
+	height: 2em;
+	width: 2em;
+	display: inline-block;
+	margin: 1em auto 1em auto;
+}
 
 
 .div1{
@@ -49,9 +78,27 @@
 	height: 36.125em;
 }
 
+.feature {
+	background-color: #FFFFFF;
+	height: 13em;
+	width: 18.875em;
+	margin-top: 1.875em;
+	display: inline-block;
+
+}
+
+
+
 .section3{
 	background-color: #E8F0F5;
 	height: 35.25em;
+}
+
+.create {
+	background-color: #118BC0;
+	height: 3em;
+	margin: 0em auto 0em auto; 
+	width: 13.1875em;
 }
 
 .section4 {
