@@ -2,12 +2,15 @@
 .navigation {
 	background-color: #008AC2;
 	height: 2.1825em;
-	margin-top: .5em;
+	width: 35.75em;
+	margin: .5em .5em 0em .5em;
 }
 
 .section1{
 	background-color: #344052;
-	height: 34.125em;
+	width: 35.75em;
+	padding-bottom: 1em;
+	margin: 0em .5em 0em .5em;
 }
 
 .s1p1 {
@@ -15,7 +18,7 @@
 	font-size: 2.25em;
 	text-align: center;
 	margin-top: 0em;
-	padding-top: 13.125em;
+	padding: 6em 4em 0em 4em;
 	color: white;
 }
 
@@ -24,6 +27,7 @@
 	font-size: 1em;
 	text-align: center;
 	margin-top: 1em;
+	padding: 0em 8em 0em 8em;
 	color: white;
 }
 
@@ -45,23 +49,23 @@
 
 .website {
 	background-color: #FFFFFF;
-	height: 2em;
+	height: 5.3125em;
 	width: 23.75em;
 	margin: 1em auto 1em auto;
 }
 
 .blog {
 	background-color: #FFFFFF;
-	height: 2em;
+	height: 5.3125em;
 	width: 23.75em;
 	margin: 1em auto 1em auto;
 }
 
 .discovery {
 	background-color: #FFFFFF;
-	height: 2em;
+	height: 5.3125em;
 	width: 23.75em;
-	margin: 1em auto 1em auto;
+	margin: 1em auto 0em auto;
 }
 
 
@@ -74,32 +78,37 @@
 .section2{
 	background-color: #D1D3D7;
 	height: 115.5em;
+	padding-top: 1em;
 }
 
 .feature {
 	background-color: #FFFFFF;
 	height: 16.25em;
 	width: 35.3125em;
-	margin: 1.875em 1em 0em 1em;
+	margin: 1.85em 1em 0em 1em;
 
 }
 
 
 
 .section3{
+
 	background-color: #E8F0F5;
-	height: 35.25em;
+	padding-top: 4em;
+	padding-bottom: 1em;
 }
 
 .create {
 	background-color: #118BC0;
 	height: 3em; 
 	width: 13.1875em;
+	padding: 0em auto 0em auto;
 }
 
 .section4 {
 	background-color: #000000;
 	height: 8.125em;
+
 }
 
 .links1 {
