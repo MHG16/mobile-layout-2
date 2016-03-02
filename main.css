@@ -1,9 +1,37 @@
 
 .navigation {
 	background-color: #008AC2;
-	height: 2.1825em;
-	margin: .5em .5em 0em .5em;
+	height: 3em;
+	margin: 0em .5em 0em .5em;
 }
+
+.wicon{
+	background-color: #FFFFFF;
+	height: 2em;
+	width: 2em;
+	display: inline;
+	float: left;
+	margin: .5em 1em .5em .5em; 
+}
+
+.name {
+	background-color: #FFFFFF;
+	height: 2em;
+	width: 8em;
+	display: inline;
+	float: left;
+	margin: .5em 1em .5em .5em; 
+}
+
+.login {
+	background-color: #006FA6;
+	height: 3em;
+	width: 6em;
+	float: right;
+}
+
+
+
 
 .main {
 	background-color: #344052;
