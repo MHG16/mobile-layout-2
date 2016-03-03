@@ -15,7 +15,7 @@
 }
 
 .name {
-	background-color: #FFFFFF;
+	background-color: #0089C4;
 	height: 2em;
 	width: 8em;
 	display: inline;
@@ -23,12 +23,10 @@
 	margin: .5em 1em .5em .5em; 
 }
 
-.name > span {
+.name > a {
 	color: black;
+	text-decoration: none;
 }
-
-
-
 
 
 .login {
@@ -38,9 +36,11 @@
 	float: right;
 }
 
-.login > span {
+.login > a {
 	color: white;
 	font-size: 1em;
+	text-decoration: none;
+
 }
 
 
@@ -50,7 +50,7 @@
 	margin: 0em 0em 0em .5em;
 }
 
-.header1 {
+.main h1 {
 	background-color: #344052;
 	font-size: 2.25em;
 	text-align: center;
@@ -76,9 +76,10 @@
 	border: .5em solid #000000;
 }
 
-.create > span {
+.create > a {
 	color:white;
 	font-size: 2em;
+	text-decoration: none;
 }
 
 
@@ -91,7 +92,7 @@
 }
 
 .website {
-	background-color: #FFFFFF;
+	background-color: #344053;
 	height: 5.3125em;
 	width: 23.75em;
 	margin: 1em auto 1em auto;
@@ -107,7 +108,7 @@
 }
 
 .textbox {
-	background-color: #616E80;
+	background-color: #344053;
 	height: 4.25em;
 	width: 19em;
 	display: inline;
@@ -116,17 +117,28 @@
 	margin-right: .25em;
 }
 
+.main h2 {
+ 	color: white;
+ 	font-size: 1.25em;
+ 	margin-top: 0;
+}
+
+.main p {
+	color: white;
+	font-size: 1em
+}
+
 
 
 .blog1 {
-	background-color: #FFFFFF;
+	background-color: #344053;
 	height: 5.3125em;
 	width: 23.75em;
 	margin: 1em auto 1em auto;
 }
 
 .discovery {
-	background-color: #FFFFFF;
+	background-color: #344053;
 	height: 5.3125em;
 	width: 23.75em;
 	margin: 1em auto 0em auto;
@@ -138,6 +150,14 @@
 	height: 13.75em;
 	margin-left: .5em;
 }
+
+.summary p {
+	font-size: 2em;
+	text-align: center;
+	margin-top: 0;
+	padding-top: 2em;
+}
+
 
 
 .features {
@@ -151,6 +171,7 @@
 	background-color: #FFFFFF;
 	height: 16.25em;
 	width: 35.3125em;
+	padding-top: 1em;
 	margin: 1.85em auto 0em auto;
 }
 
@@ -170,6 +191,13 @@
 
 }
 
+.features .feature h1 {
+	font-size: 2em;
+	text-align: center;
+}
+
+
+
 .itext2 {
 	background-color:#C7D2D8;
 	height: 4em;
@@ -186,6 +214,12 @@
 	margin-left: .5em;
 }
 
+.bottom p {
+	font-size: 2em;
+	text-align: center;
+}
+
+
 .create2 {
 	background-color: #118BC0;
 	height: 4.625em;
@@ -193,6 +227,10 @@
 	margin: 1em auto 1em;
 }
 
+.create2 > span {
+	color:white;
+	font-size: 2em;
+}
 
 .footer {
 	background-color: #000000;
