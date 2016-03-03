@@ -23,12 +23,26 @@
 	margin: .5em 1em .5em .5em; 
 }
 
+.name > span {
+	color: black;
+}
+
+
+
+
+
 .login {
 	background-color: #006FA6;
 	height: 3em;
 	width: 6em;
 	float: right;
 }
+
+.login > span {
+	color: white;
+	font-size: 1em;
+}
+
 
 .main {
 	background-color: #344052;
@@ -61,6 +75,12 @@
 	margin: 1em auto 1em;
 	border: .5em solid #000000;
 }
+
+.create > span {
+	color:white;
+	font-size: 2em;
+}
+
 
 .arrow {
 	background-color: #FFFFFF;
