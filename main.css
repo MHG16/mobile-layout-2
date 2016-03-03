@@ -30,9 +30,6 @@
 	float: right;
 }
 
-
-
-
 .main {
 	background-color: #344052;
 	padding-bottom: 1em;
@@ -59,7 +56,7 @@
 
 .create {
 	background-color: #118BC0;
-	height: 4.625em;
+	height: 4em;
 	width: 14.375em;
 	margin: 1em auto 1em;
 	border: .5em solid #000000;
@@ -79,6 +76,27 @@
 	width: 23.75em;
 	margin: 1em auto 1em auto;
 }
+
+.iconbox {
+	background-color: #616E80;
+	height: 4em;
+	width: 4em;
+	margin-top: 1.30em;
+	display: inline;
+	float: left;
+}
+
+.textbox {
+	background-color: #616E80;
+	height: 4.25em;
+	width: 19em;
+	display: inline;
+	float: right;
+	margin-bottom: 1.15em;
+	margin-right: .25em;
+}
+
+
 
 .blog1 {
 	background-color: #FFFFFF;
@@ -116,6 +134,28 @@
 	margin: 1.85em auto 0em auto;
 }
 
+.ibox {
+	background-color:#C7D2D8;
+	height: 3em; 
+	width: 4em;
+	padding-top: 1em;
+	margin: 0em auto 1em auto; 
+}
+
+.itext1 {
+	background-color:#C7D2D8;
+	height: 2em;
+	width: 32em;
+	margin: 1em auto;
+
+}
+
+.itext2 {
+	background-color:#C7D2D8;
+	height: 4em;
+	width: 32em;
+	margin: 2em auto;
+}
 
 
 .bottom {
