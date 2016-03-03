@@ -87,7 +87,7 @@
 	background-color: #FFFFFF;
 	height: 1em;
 	width: 1em;
-	margin: .5em auto .5em auto;
+	margin: 10em auto 5em auto;
 
 }
 
@@ -176,7 +176,7 @@
 }
 
 .ibox {
-	background-color:#C7D2D8;
+	background-color: #C7D2D8;
 	height: 3em; 
 	width: 4em;
 	padding-top: 1em;
@@ -184,7 +184,7 @@
 }
 
 .itext1 {
-	background-color:#C7D2D8;
+	background-color: #FFFFFF;
 	height: 2em;
 	width: 32em;
 	margin: 1em auto;
@@ -192,6 +192,7 @@
 }
 
 .features .feature h1 {
+	color: #4D667A;
 	font-size: 2em;
 	text-align: center;
 }
@@ -199,11 +200,16 @@
 
 
 .itext2 {
-	background-color:#C7D2D8;
+	background-color: #FFFFFF;
 	height: 4em;
 	width: 32em;
 	margin: 2em auto;
 }
+
+.itext2 p {
+	text-align: center;
+}
+
 
 
 .bottom {
