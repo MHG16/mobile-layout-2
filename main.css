@@ -15,9 +15,9 @@ body {
 	float: left;
 }
 
-.wicon .img {
-	height: 2em;
-	width: 2em;
+.wicon img {
+	height: 3em;
+	width: 3em;
 }
 
 
@@ -95,12 +95,17 @@ main h1 {
 
 
 .arrow {
-	background-color: #FFFFFF;
+	background-color: #344052;
 	height: 2em;
 	width: 4em;
 	margin: 10em auto 5em auto;
 
 }
+
+.arrow i {
+	color: white; 
+}
+
 
 .website {
 	background-color: #344053;
