@@ -4,7 +4,7 @@ body {
 
 .navigation {
 	background-color: #008AC2;
-	height: 3.5em;
+	height: 3em;
 }
 
 .wicon{
@@ -13,7 +13,6 @@ body {
 	width: 2em;
 	display: inline;
 	float: left;
-	margin: .5em 1em .5em .5em; 
 }
 
 .wicon img {
@@ -24,11 +23,10 @@ body {
 
 .name {
 	background-color: #0089C4;
-	height: 3em;
 	width: 8em;
 	display: inline;
 	float: left;
-	margin: .5em 1em .5em .5em; 
+	margin: 1em; 
 }
 
 .name > a {
@@ -39,9 +37,9 @@ body {
 
 .login {
 	background-color: #006FA6;
-	height: 3.5em;
 	width: 6em;
 	float: right;
+	padding: 1em;
 }
 
 .login > a {
@@ -78,9 +76,9 @@ main h1 {
 .create {
 	background-color: #118BC0;
 	height: 4em;
-	width: 14.375em;
+	width: 18em;
 	margin: 1em auto 1em;
-	border: .5em solid #000000;
+	border: .75em solid #000000;
 }
 
 .create > a {
@@ -192,6 +190,7 @@ main p {
 .ibox img {
 	height: 2em;
 	width: 2em;
+	margin-left: 1em;
 }
 
 
