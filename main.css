@@ -112,6 +112,12 @@ main h1 {
 	float: left;
 }
 
+.iconbox img {
+	height: 3em;
+	width: 3em;
+}
+
+
 .textbox {
 	background-color: #344053;
 	height: 4.25em;
@@ -191,6 +197,7 @@ main p {
 	height: 2em;
 	width: 2em;
 	margin-left: 1em;
+	color: #537C97;
 }
 
 
