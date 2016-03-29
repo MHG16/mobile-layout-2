@@ -85,6 +85,8 @@ main h1 {
 	width: 18em;
 	margin: 1em auto 1em;
 	border: .75em solid #000000;
+	text-align: center;
+	padding-top: 1em;
 }
 
 .create > a {
@@ -198,9 +200,9 @@ main p {
 
 .ibox {
 	background-color: #C7D2D8;
-	height: 3em; 
+	height: 4em; 
 	width: 4em;
-	padding-top: 1em;
+	border-radius: 2em;
 	margin: 0em auto 1em auto; 
 }
 
@@ -261,6 +263,8 @@ main p {
 	height: 4.625em;
 	width: 18em;
 	margin: 1em auto 1em;
+	text-align: center;
+	padding-top: 1em;
 }
 
 .create2 > span {
