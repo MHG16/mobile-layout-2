@@ -15,9 +15,14 @@ body {
 	float: left;
 }
 
-.wicon img {
-	height: 3em;
-	width: 3em;
+.wicon .img {
+	height: 2em;
+	width: 2em;
+}
+
+
+.fa.fa-tablet.fa-2x, .fa.fa-newspaper-o.fa-2x, .fa.fa-paint-brush.fa-2x {
+	
 	color: white;
 }
 
@@ -113,10 +118,9 @@ main h1 {
 	float: left;
 }
 
-.iconbox img {
-	height: 3em;
-	width: 3em;
-}
+ .fa.fa-lightbulb-o.fa-2x, .fa.fa-cloud.fa-2x, .fa.fa-code.fa-2x, .fa.fa-comment.fa-2x, .fa.fa-gift.fa-2x, .fa.fa-globe.fa-2x{
+	color: #537C97; 	
+ }
 
 
 .textbox {
