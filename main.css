@@ -18,6 +18,7 @@ body {
 .wicon img {
 	height: 3em;
 	width: 3em;
+	fill: white;
 }
 
 
@@ -90,8 +91,8 @@ main h1 {
 
 .arrow {
 	background-color: #FFFFFF;
-	height: 1em;
-	width: 1em;
+	height: 2em;
+	width: 4em;
 	margin: 10em auto 5em auto;
 
 }
@@ -180,7 +181,7 @@ main p {
 .feature {
 	background-color: #FFFFFF;
 	height: 16.25em;
-	width: 35.3125em;
+	width: 34.5em;
 	padding-top: 1em;
 	margin: 1.85em auto 0em auto;
 }
@@ -248,7 +249,7 @@ main p {
 .create2 {
 	background-color: #118BC0;
 	height: 4.625em;
-	width: 14.375em;
+	width: 18em;
 	margin: 1em auto 1em;
 }
 
