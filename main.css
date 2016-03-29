@@ -1,8 +1,10 @@
+body {
+	margin: 0em;
+}
 
 .navigation {
 	background-color: #008AC2;
 	height: 3.5em;
-	margin: 0em .5em 0em .5em;
 }
 
 .wicon{
@@ -53,7 +55,6 @@
 main {
 	background-color: #344052;
 	padding-bottom: 1em;
-	margin: 0em 0em 0em .5em;
 }
 
 main h1 {
@@ -154,13 +155,12 @@ main p {
 .summary {
 	background-color: #E8F0F5;
 	height: 13.75em;
-	margin-left: .5em;
 }
 
 .summary p {
 	font-size: 2em;
 	text-align: center;
-	margin-top: 0;
+	margin: 0;
 	padding-top: 2em;
 }
 
@@ -170,7 +170,7 @@ main p {
 	background-color: #D1D3D7;
 	padding-top: 1em;
 	padding-bottom: 1em;
-	margin-left: .5em;
+	margin-left: 0em;
 }
 
 .feature {
@@ -231,7 +231,6 @@ main p {
 	background-color: #E8F0F5;
 	padding-top: 4em;
 	padding-bottom: 1em;
-	margin-left: .5em;
 }
 
 .bottom p {
@@ -255,7 +254,6 @@ main p {
 .footer {
 	background-color: #000000;
 	height: 8.125em;
-	margin-left: .5em;
 }
 
 .links {
