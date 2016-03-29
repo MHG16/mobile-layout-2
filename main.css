@@ -21,7 +21,7 @@ body {
 }
 
 
-.fa.fa-tablet.fa-2x, .fa.fa-newspaper-o.fa-2x, .fa.fa-paint-brush.fa-2x {
+.fa.fa-tablet.fa-3x, .fa.fa-newspaper-o.fa-3x, .fa.fa-paint-brush.fa-3x {
 	
 	color: white;
 }
@@ -118,8 +118,9 @@ main h1 {
 	float: left;
 }
 
- .fa.fa-lightbulb-o.fa-2x, .fa.fa-cloud.fa-2x, .fa.fa-code.fa-2x, .fa.fa-comment.fa-2x, .fa.fa-gift.fa-2x, .fa.fa-globe.fa-2x{
-	color: #537C97; 	
+ .fa.fa-lightbulb-o.fa-3x, .fa.fa-cloud.fa-3x, .fa.fa-code.fa-3x, .fa.fa-comment.fa-3x, .fa.fa-gift.fa-3x, .fa.fa-globe.fa-3x{
+	color: #537C97; 
+
  }
 
 
