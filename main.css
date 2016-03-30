@@ -279,14 +279,14 @@ main p {
 .footer {
 	background-color: #000000;
 	text-align: center;
-	padding: 0 4em;
+	padding-bottom: 1em;
 }
 
 .links {
 	background-color: #000000;
 	width: 39em;
 	margin: 0em auto 0em auto; 
-	padding-top: 2em;
+	padding: 1em;
 }
 
 
