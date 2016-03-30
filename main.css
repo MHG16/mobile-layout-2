@@ -179,6 +179,7 @@ main p {
 	text-align: center;
 	margin: 0;
 	padding-top: 2em;
+	color: black;
 }
 
 
@@ -241,6 +242,7 @@ main p {
 
 .itext2 p {
 	text-align: center;
+	color: black;
 }
 
 
@@ -255,6 +257,7 @@ main p {
 .bottom p {
 	font-size: 2em;
 	text-align: center;
+	color: black;
 }
 
 
@@ -284,9 +287,10 @@ main p {
 	padding-top: 2em;
 }
 
-span {
+a {
 	color: white;
 	margin: 0em auto 0em auto; 
+	text-decoration: none;  
 }
 
 .label {
