@@ -24,6 +24,7 @@ body {
 .fa.fa-tablet.fa-3x, .fa.fa-newspaper-o.fa-3x, .fa.fa-paint-brush.fa-3x {
 	
 	color: white;
+	margin: 0em 0 0.5em 0.25em;
 }
 
 
@@ -127,7 +128,7 @@ main h1 {
 
  .fa.fa-lightbulb-o.fa-3x, .fa.fa-cloud.fa-3x, .fa.fa-code.fa-3x, .fa.fa-comment.fa-3x, .fa.fa-gift.fa-3x, .fa.fa-globe.fa-3x{
 	color: #537C97; 
-
+	margin: 0.25em 0 0 0.25em;
  }
 
 
@@ -287,11 +288,18 @@ main p {
 	padding-top: 2em;
 }
 
+
 a {
 	color: white;
 	margin: 0em auto 0em auto; 
 	text-decoration: none;  
 }
+
+.footerLinks {
+	display: inline;
+	margin-right: 1em;
+}
+
 
 .label {
 	background-color: #FFFFFF;
