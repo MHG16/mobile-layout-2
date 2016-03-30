@@ -118,7 +118,7 @@ main h1 {
 }
 
 .iconbox {
-	background-color: #616E80;
+	background-color: #344052;
 	height: 4em;
 	width: 4em;
 	margin-top: 1.30em;
@@ -278,7 +278,8 @@ main p {
 
 .footer {
 	background-color: #000000;
-	height: 8.125em;
+	text-align: center;
+	padding: 0 4em;
 }
 
 .links {
@@ -295,9 +296,16 @@ a {
 	text-decoration: none;  
 }
 
+li {
+	display: inline;
+	margin-right: 1em;
+}
+
+
 .footerLinks {
 	display: inline;
 	margin-right: 1em;
+	font-size: 0.75em;
 }
 
 
